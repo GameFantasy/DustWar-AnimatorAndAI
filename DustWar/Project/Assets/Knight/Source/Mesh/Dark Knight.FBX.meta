@@ -1,0 +1,2716 @@
+fileFormatVersion: 2
+guid: aaed3556cbfd5f046ac47cdd6de17791
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dark Knight
+    100004: Dark Knight_Helmet
+    100006: Dark Knight_Shield
+    100008: FH_Dark Knight_sword
+    100010: FH_Knight_Scabbard
+    100012: Knight_weapon
+    100014: KnightsPelvis
+    100016: KnightsRCollarbone
+    100018: KnightsRForearm
+    100020: KnightsRibcage
+    100022: KnightsRPalm
+    100024: KnightsRUpperarm
+    100026: KnightsSpine1
+    100028: KnightsSpine2
+    100030: KnightsSpine3
+    100032: Dark Knight_Belt
+    100034: Dark Knight_Belt_LOD
+    100036: Dark Knight_Helmet_LOD
+    100038: Dark Knight_LOD
+    100040: Dark Knight_Shield_LOD
+    100042: FH_Dark Knight_Sword
+    100044: FH_Dark Knight_Sword_LOD
+    100046: FH_Knight_Scabbard_LOD
+    100048: Dark KnightHead
+    100050: Dark KnightLCollarbone
+    100052: Dark KnightLForearm
+    100054: Dark KnightLPalm
+    100056: Dark KnightLUpperarm
+    100058: Dark KnightNeck
+    100060: Dark KnightPelvis
+    100062: Dark KnightRCollarbone
+    100064: Dark KnightRForearm
+    100066: Dark KnightRibcage
+    100068: Dark KnightRPalm
+    100070: Dark KnightRUpperarm
+    100072: Dark KnightScabbard
+    100074: Dark KnightSpine1
+    100076: Dark KnightSpine2
+    100078: Dark KnightSpine3
+    100080: Dark KnightLCalf
+    100082: Dark KnightLDigit11
+    100084: Dark KnightLDigit11 1
+    100086: Dark KnightLDigit12
+    100088: Dark KnightLDigit21
+    100090: Dark KnightLDigit22
+    100092: Dark KnightLDigit23
+    100094: Dark KnightLFoot
+    100096: Dark KnightLThigh
+    100098: Dark Knightmouth
+    100100: Dark KnightRCalf
+    100102: Dark KnightRDigit11
+    100104: Dark KnightRDigit11 1
+    100106: Dark KnightRDigit12
+    100108: Dark KnightRDigit21
+    100110: Dark KnightRDigit22
+    100112: Dark KnightRDigit23
+    100114: Dark KnightRFoot
+    100116: Dark KnightRThigh
+    400000: //RootNode
+    400002: Dark Knight
+    400004: Dark Knight_Helmet
+    400006: Dark Knight_Shield
+    400008: FH_Dark Knight_sword
+    400010: FH_Knight_Scabbard
+    400012: Knight_weapon
+    400014: KnightsPelvis
+    400016: KnightsRCollarbone
+    400018: KnightsRForearm
+    400020: KnightsRibcage
+    400022: KnightsRPalm
+    400024: KnightsRUpperarm
+    400026: KnightsSpine1
+    400028: KnightsSpine2
+    400030: KnightsSpine3
+    400032: Dark Knight_Belt
+    400034: Dark Knight_Belt_LOD
+    400036: Dark Knight_Helmet_LOD
+    400038: Dark Knight_LOD
+    400040: Dark Knight_Shield_LOD
+    400042: FH_Dark Knight_Sword
+    400044: FH_Dark Knight_Sword_LOD
+    400046: FH_Knight_Scabbard_LOD
+    400048: Dark KnightHead
+    400050: Dark KnightLCollarbone
+    400052: Dark KnightLForearm
+    400054: Dark KnightLPalm
+    400056: Dark KnightLUpperarm
+    400058: Dark KnightNeck
+    400060: Dark KnightPelvis
+    400062: Dark KnightRCollarbone
+    400064: Dark KnightRForearm
+    400066: Dark KnightRibcage
+    400068: Dark KnightRPalm
+    400070: Dark KnightRUpperarm
+    400072: Dark KnightScabbard
+    400074: Dark KnightSpine1
+    400076: Dark KnightSpine2
+    400078: Dark KnightSpine3
+    400080: Dark KnightLCalf
+    400082: Dark KnightLDigit11
+    400084: Dark KnightLDigit11 1
+    400086: Dark KnightLDigit12
+    400088: Dark KnightLDigit21
+    400090: Dark KnightLDigit22
+    400092: Dark KnightLDigit23
+    400094: Dark KnightLFoot
+    400096: Dark KnightLThigh
+    400098: Dark Knightmouth
+    400100: Dark KnightRCalf
+    400102: Dark KnightRDigit11
+    400104: Dark KnightRDigit11 1
+    400106: Dark KnightRDigit12
+    400108: Dark KnightRDigit21
+    400110: Dark KnightRDigit22
+    400112: Dark KnightRDigit23
+    400114: Dark KnightRFoot
+    400116: Dark KnightRThigh
+    2300000: Dark Knight
+    2300002: Dark Knight_Helmet
+    2300004: Dark Knight_Shield
+    2300006: FH_Dark Knight_sword
+    2300008: FH_Knight_Scabbard
+    2300010: Dark Knight_Belt
+    2300012: Dark Knight_Belt_LOD
+    2300014: Dark Knight_Helmet_LOD
+    2300016: Dark Knight_LOD
+    2300018: Dark Knight_Shield_LOD
+    2300020: FH_Dark Knight_Sword
+    2300022: FH_Dark Knight_Sword_LOD
+    2300024: FH_Knight_Scabbard_LOD
+    3300000: Dark Knight
+    3300002: Dark Knight_Helmet
+    3300004: Dark Knight_Shield
+    3300006: FH_Dark Knight_sword
+    3300008: FH_Knight_Scabbard
+    3300010: Dark Knight_Belt
+    3300012: Dark Knight_Belt_LOD
+    3300014: Dark Knight_Helmet_LOD
+    3300016: Dark Knight_LOD
+    3300018: Dark Knight_Shield_LOD
+    3300020: FH_Dark Knight_Sword
+    3300022: FH_Dark Knight_Sword_LOD
+    3300024: FH_Knight_Scabbard_LOD
+    4300000: FH_Dark Knight_sword
+    4300002: FH_Knight_Scabbard
+    4300004: Dark Knight
+    4300006: Dark Knight_Shield
+    4300008: Dark Knight_Helmet
+    4300010: FH_Dark Knight_Sword
+    4300012: FH_Dark Knight_Sword_LOD
+    4300014: FH_Knight_Scabbard_LOD
+    4300016: Dark Knight_LOD
+    4300018: Dark Knight_Helmet_LOD
+    4300020: Dark Knight_Shield_LOD
+    4300022: Dark Knight_Belt
+    4300024: Dark Knight_Belt_LOD
+    7400000: idle
+    7400002: idle break 1
+    7400004: idle break 2
+    7400006: talk
+    7400008: jump
+    7400010: idle fight
+    7400012: taunt
+    7400014: attack1
+    7400016: attack2
+    7400018: empty
+    7400020: empty
+    7400022: death
+    7400024: walk
+    7400026: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Dark Knight
+    13700002: Dark Knight_Belt
+    13700004: Dark Knight_LOD
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Knight
+    second: {fileID: 2100000, guid: 9a8f2a91d7c80ee4dbca3fcdf7b5f539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Knight_mobile
+    second: {fileID: 2100000, guid: 0d36cca372311314abf48f3e906e1977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Knight_weapons
+    second: {fileID: 2100000, guid: 3ac77762ea5b27d4aba9cfd54db6b689, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Dark KnightSpine3' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Dark KnightRibcage' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Dark
+      Knightmouth' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break 1
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break 2
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: talk
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle fight
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 400
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: taunt
+      takeName: Take 001
+      firstFrame: 410
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack1
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2
+      takeName: Take 001
+      firstFrame: 480
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: empty
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 730
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: empty
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 730
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 630
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 700
+      lastFrame: 730
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 750
+      lastFrame: 775
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dark Knight
+        weight: 1
+      - path: Dark Knight_Belt
+        weight: 1
+      - path: Dark Knight_LOD
+        weight: 1
+      - path: Dark KnightPelvis
+        weight: 1
+      - path: Dark KnightPelvis/Dark Knight_Belt_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightLThigh/Dark KnightLCalf/Dark KnightLFoot/Dark
+          KnightLDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightRThigh/Dark KnightRCalf/Dark KnightRFoot/Dark
+          KnightRDigit11
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightScabbard/FH_Knight_Scabbard_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark Knight_Shield_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit11 1/Dark KnightLDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightLCollarbone/Dark KnightLUpperarm/Dark KnightLForearm/Dark
+          KnightLPalm/Dark KnightLDigit21/Dark KnightLDigit22/Dark KnightLDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knight_Helmet_LOD
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightNeck/Dark KnightHead/Dark Knightmouth
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit11 1/Dark KnightRDigit12
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Dark KnightRDigit21/Dark KnightRDigit22/Dark KnightRDigit23
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword
+        weight: 1
+      - path: Dark KnightPelvis/Dark KnightSpine1/Dark KnightSpine2/Dark KnightSpine3/Dark
+          KnightRibcage/Dark KnightRCollarbone/Dark KnightRUpperarm/Dark KnightRForearm/Dark
+          KnightRPalm/Knight_weapon/FH_Dark Knight_Sword_LOD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

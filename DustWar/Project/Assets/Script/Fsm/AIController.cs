@@ -9,7 +9,9 @@ public class AIController : AdvancedFSM
     protected override void Initialize()
     {
         anim=GetComponent<Animator>();
-        AnimationManager.Instance.addAnimStates("wolf", "idle", anim);
+        AnimationManager.Instance.AddAnimMoion("Knight","idle",anim,false);
+        AnimationManager.Instance.AddAnimMoion("Knight", "run", anim, false);
+        AnimationManager.Instance.AddTrisition(anim, "idle", "run");
     }
 
 
