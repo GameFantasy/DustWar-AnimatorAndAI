@@ -33,7 +33,7 @@ public abstract class FSMState
             map.Remove(trans);
             return;
         }
-        Debug.LogError("FSMState ERROR: Transition passed was not on this State磗 List");
+        Debug.LogError("FSMState ERROR: Transition passed was not on this StateList");
     }
 
 

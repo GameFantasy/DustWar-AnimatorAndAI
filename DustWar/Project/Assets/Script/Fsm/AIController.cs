@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class AIController : AdvancedFSM 
 {
+    //名字
+    private string characterName;
     //初始化
-    public Animator anim;
     protected override void Initialize()
     {
-        anim=GetComponent<Animator>();
-        AnimationManager.Instance.AddAnimMoion("Knight","idle",anim,false);
-        AnimationManager.Instance.AddAnimMoion("Knight", "run", anim, false);
-        AnimationManager.Instance.AddTrisition(anim, "idle", "run");
+        AnimationManager.Instance.animator = GetComponent<Animator>();
+        characterName = name;
+        AnimationManager.Instance.AddAnimMoion("Knight","idle",false);
+        AnimationManager.Instance.AddAnimMoion("Knight","run", false);
+        AnimationManager.Instance.AddTransition("idle", "run", "isRun");
     }
 
 

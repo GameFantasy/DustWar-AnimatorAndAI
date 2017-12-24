@@ -4,6 +4,7 @@ using UnityEngine;
 
 public enum Transition 
 {
-    Find=0,
+    FindEnemy=0,
     LostEnemy,
+    reachEnemy,
 }

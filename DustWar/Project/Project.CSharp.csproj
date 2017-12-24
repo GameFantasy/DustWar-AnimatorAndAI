@@ -228,6 +228,7 @@
     <Compile Include="Assets\Script\Fsm\FSM.cs" />
     <Compile Include="Assets\Script\Fsm\FSMState.cs" />
     <Compile Include="Assets\Script\Fsm\FSMStateID.cs" />
+    <Compile Include="Assets\Script\Fsm\IdleState.cs" />
     <Compile Include="Assets\Script\Fsm\Transition.cs" />
     <Compile Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\BlurEffect.cs" />
     <Compile Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\ColorCorrectionEffect.cs" />

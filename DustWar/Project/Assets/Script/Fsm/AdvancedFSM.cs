@@ -4,9 +4,7 @@ using UnityEngine;
 
 public class AdvancedFSM : FSM 
 {
- private List<FSMState> fsmStates;
-
-    //The fsmStates are not changing directly but updated by using transitions
+    private List<FSMState> fsmStates;
     private FSMStateID currentStateID;
     public FSMStateID CurrentStateID { get { return currentStateID; } }
 
@@ -17,20 +15,14 @@ public class AdvancedFSM : FSM
     {
         fsmStates = new List<FSMState>();
     }
-
-    /// <summary>
-    /// Add New State into the list
-    /// </summary>
     public void AddFSMState(FSMState fsmState)
     {
-        // Check for Null reference before deleting
+        // 检查状态是否为空
         if (fsmState == null)
         {
             Debug.LogError("FSM ERROR: Null reference is not allowed");
         }
 
-        // First State inserted is also the Initial state
-        //   the state the machine is in when the simulation begins
         if (fsmStates.Count == 0)
         {
             fsmStates.Add(fsmState);
@@ -39,7 +31,7 @@ public class AdvancedFSM : FSM
             return;
         }
 
-        // Add the state to the List if it磗 not inside it
+        // 检测状态是否在列表中
         foreach (FSMState state in fsmStates)
         {
             if (state.ID == fsmState.ID)
@@ -49,15 +41,14 @@ public class AdvancedFSM : FSM
             }
         }
 
-        //If no state in the current then add the state to the list
+        //添加状态进列表
         fsmStates.Add(fsmState);
     }
 
     
-    //This method delete a state from the FSM List if it exists,     
+    //删除列表中状态     
     public void DeleteState(FSMStateID fsmState)
     {
-        // Search the List and delete the state if it磗 inside it
         foreach (FSMState state in fsmStates)
         {
             if (state.ID == fsmState)
@@ -70,15 +61,13 @@ public class AdvancedFSM : FSM
     }
 
     /// <summary>
-    /// This method tries to change the state the FSM is in based on
-    /// the current state and the transition passed. 
+    /// 当前状态通过条件转换
     /// </summary>
     public void PerformTransition(Transition trans)
-    {  
-        // Check if the currentState has the transition passed as argument
-        FSMStateID id = currentState.GetOutputState(trans);        
+    {
+        FSMStateID id = currentState.GetOutputState(trans);
 
-        // Update the currentStateID and currentState		
+        // 更新当前状态和当前状态id		
         currentStateID = id;
         foreach (FSMState state in fsmStates)
         {
