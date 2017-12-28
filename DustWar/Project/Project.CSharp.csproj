@@ -219,17 +219,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Controller\CameraTest.cs" />
-    <Compile Include="Assets\Script\Controller\MoveTest.cs" />
-    <Compile Include="Assets\Script\Fsm\AdvancedFSM.cs" />
-    <Compile Include="Assets\Script\Fsm\AIController.cs" />
+    <Compile Include="Assets\RFX_Resources\Scripts\Destroy.cs" />
+    <Compile Include="Assets\RFX_Resources\Scripts\ParticleScaler.cs" />
+    <Compile Include="Assets\Script\Controller\CameraController.cs" />
+    <Compile Include="Assets\Script\Controller\Player.cs" />
     <Compile Include="Assets\Script\Fsm\AnimationManager.cs" />
-    <Compile Include="Assets\Script\Fsm\ChaseState.cs" />
-    <Compile Include="Assets\Script\Fsm\FSM.cs" />
-    <Compile Include="Assets\Script\Fsm\FSMState.cs" />
-    <Compile Include="Assets\Script\Fsm\FSMStateID.cs" />
-    <Compile Include="Assets\Script\Fsm\IdleState.cs" />
-    <Compile Include="Assets\Script\Fsm\Transition.cs" />
+    <Compile Include="Assets\Script\Fsm\GameStateMachine.cs" />
+    <Compile Include="Assets\Script\Fsm\IState.cs" />
+    <Compile Include="Assets\Script\Fsm\PlayerIdleState.cs" />
+    <Compile Include="Assets\Script\Fsm\PlayerRunState.cs" />
     <Compile Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\BlurEffect.cs" />
     <Compile Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\ColorCorrectionEffect.cs" />
     <Compile Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\ContrastStretchEffect.cs" />
@@ -246,6 +244,8 @@
     <Compile Include="Assets\SURIYUN\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\RFX_Resources\Prefabs\Fx\V2\V2_Change.txt" />
+    <None Include="Assets\RFX_Resources\Scripts\HowtoPlay.txt" />
     <None Include="Assets\SURIYUN\README.txt" />
     <None Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
     <None Include="Assets\SURIYUN\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlurEffectConeTaps.shader" />
